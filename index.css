@@ -1,7 +1,10 @@
+@import url('https://fonts.cdnfonts.com/css/lavanderia');
+
 body {
     background-color:  #000000;
     background-image: url("https://media3.giphy.com/media/FlodpfQUBSp20/giphy.gif?cid=ecf05e477u0tfrelx17kfpy8ztfx1w1ninc01t4kl81xk5cb&rid=giphy.gif&ct=g");
     background-repeat: repeat repeat;
+    font-family: 'Lavanderia', sans-serif;
 }
 
 .container {
